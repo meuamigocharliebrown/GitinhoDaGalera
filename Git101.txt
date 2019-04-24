@@ -1,2 +1,3 @@
-Qualquer coisa dentro dele;
-Alteração de arquivo pelo acesso de GitHub - teste preliminar, possibilidade de falha
+﻿Qualquer coisa dentro dele;
+Alteração de arquivo pelo acesso de GitHub - teste preliminar, possibilidade de falha;
+Alteração pelo GitHub feita com sucesso, nova alteração em partição local (na máquina);
